@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Silverkadiusz
+- 👀 I’m interested in ..Inżynieria bazodanowa i język Java
+- 🌱 I’m currently learning ...SQL, PL/SQL , Microsoft Access
+- 💞️ I’m looking to collaborate on ... wytwarzaniu oprogramowań biznesowych  i Big Data
+- 📫 How to reach me ... arkadiusz55455@gmail.com , t 786-805-475
